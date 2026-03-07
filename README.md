@@ -28,6 +28,7 @@ Segmented **93,000+ customers** of a Brazilian e-commerce marketplace into four 
 ### Geographic Distribution
 
 ![Geographic Distribution](visuals/geographic_scatter.png)
+
 Remote Regionals (orange) cluster distinctly in Brazil's Northeast coast, while other segments overlap in the Southeast around São Paulo.
 
 ---
@@ -85,11 +86,10 @@ Customer-Segmentation-Olist/
 ├── notebooks/
 │   └── customer_segmentation.ipynb
 ├── visuals/                       # Exported charts
-│   ├── radar_chart.png
-│   ├── geo_scatter.png
+│   ├── cluster_radar_chart.png
+│   ├── geographic_scatter.png
 │   ├── correlation_matrix.png
-│   ├── elbow_silhouette.png
-│   └── cluster_bar_chart.png
+│   └── cluster_distribution.png
 ├── customer_segments.csv          # Final output with cluster labels
 ├── requirements.txt
 ├── .gitignore
