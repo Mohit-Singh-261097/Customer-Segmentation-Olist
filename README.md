@@ -23,12 +23,11 @@ Segmented **93,000+ customers** of a Brazilian e-commerce marketplace into four 
 
 ### Segment Profiles (Radar Chart)
 
-![Customer Segment Comparison](visuals/radar_chart.png)
+![Customer Segment Comparison](visuals/cluster_radar_chart.png)
 
 ### Geographic Distribution
 
-![Geographic Distribution](visuals/geo_scatter.png)
-
+![Geographic Distribution](visuals/geographic_scatter.png)
 Remote Regionals (orange) cluster distinctly in Brazil's Northeast coast, while other segments overlap in the Southeast around São Paulo.
 
 ---
