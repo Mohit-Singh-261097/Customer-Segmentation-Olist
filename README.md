@@ -124,4 +124,4 @@ scipy>=1.10.0
 
 ## Dashboard
 
-![Customer Segment Comparison](dashboard/Customer_segmentation_dashboard.pdf)
+[Customer Segment Comparison Dashboard](dashboard/Customer_segmentation_dashboard.pdf)
