@@ -236,3 +236,5 @@ scipy>=1.10.0
 ## Dashboard
 
 [Customer Segment Comparison Dashboard](dashboard/)
+
+![Customer Segment Comparison Dashboard](dashboard/dashboard_GIF.gif) 
