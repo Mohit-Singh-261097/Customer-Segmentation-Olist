@@ -82,7 +82,9 @@ Remote Regionals (orange) cluster distinctly in Brazil's Northeast coast, while 
 
 ```
 Customer-Segmentation-Olist/
-├── data/                          # Raw CSVs (not tracked — see .gitignore)
+├── data/                        # Raw CSVs (not tracked — see .gitignore)
+├── dashboard/
+│   └──Customer_segmentation_dashboard.pdf                        
 ├── notebooks/
 │   └── customer_segmentation.ipynb
 ├── visuals/                       # Exported charts
@@ -120,6 +122,6 @@ scipy>=1.10.0
 
 ---
 
-## Next Steps
+## Dashboard
 
-- **Power BI Dashboard:** Interactive visualization of segment profiles using the exported `customer_segments.csv` (in progress)
+![Customer Segment Comparison](dashboard/Customer_segmentation_dashboard.pdf)
